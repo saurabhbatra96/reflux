@@ -904,6 +904,7 @@ Contact section
 **/
 #contact {
   padding-top: 100px;
+  background-color: #333;
   padding-bottom: 70px;
 }
 #contact h3 {
